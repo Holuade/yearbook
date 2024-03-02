@@ -1,0 +1,32 @@
+   /* Custom Styles */
+
+   /* Custom background color for the navbar */
+   .bg-custom {
+   background-color: #336699; /* You can change this to your custom color */
+   }
+
+   /* Set text color to white */
+   .navbar-dark .navbar-nav .nav-link {
+   color: #fff;
+   }
+
+   /* Custom styles for the grid */
+   .grid {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+   grid-gap: 20px;
+   }
+
+   /* Custom styles for the footer */
+   .footer {
+   background-color: #336699; /* You can change this to your custom color */
+   color: #fff;
+   padding: 20px 0;
+   }
+
+.img-fluid {
+	height: 480px; /* Adjust the height as needed */
+	width: 500px;
+	border-radius: 10px;
+}
+
